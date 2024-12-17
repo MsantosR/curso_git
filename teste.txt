@@ -1,0 +1,5 @@
+curso de git;
+git bash
+
+linux 
+docker
