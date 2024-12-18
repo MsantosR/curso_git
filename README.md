@@ -1,6 +1,6 @@
 #curso do git
 
-![](./githublogo.png)(Github logo)
+![]("C:\Users\marcos.santos\git_curso\gitlogo.png")
 
 Este repositório é um treino sobre o git e github.
 
