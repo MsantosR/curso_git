@@ -1,0 +1,14 @@
+
+#lista dos planetas do sistema slar
+
+Mercurio
+Venus
+Terra
+Marte
+jupter
+Saturno
+Urano
+netuno
+
+
+Aula de git e github
