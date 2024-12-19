@@ -4,6 +4,6 @@
 
 Este repositório é um treino sobre o git e github.
 
-Estou praticando pelo menos 1h por dia para aprender mais!!
+Estou praticando pelo menos 1h por dia para aprender mais!
 
 
