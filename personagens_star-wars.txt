@@ -1,12 +1,5 @@
-
-#Lista de personagens star Wars
-
 luke
 Vader
 yoda
 Obi Wan
-Palpatine
-Leia
-C3PO
-
 
