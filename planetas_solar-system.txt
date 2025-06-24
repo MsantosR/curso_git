@@ -9,7 +9,7 @@ jupter
 Saturno
 Urano
 netuno
-Pultao
+Pultao não é planeta
 Phobos
 lua
 
