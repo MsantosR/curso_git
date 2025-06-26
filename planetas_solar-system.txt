@@ -9,6 +9,3 @@ jupter
 Saturno
 Urano
 netuno
-Plutao
-Phobos
-lua
